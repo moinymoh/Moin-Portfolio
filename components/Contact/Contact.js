@@ -9,16 +9,22 @@ export const Contact = () => {
       github: "https://github.com/mpasha400",
       linkedin: "https://www.linkedin.com/in/moiin/",
       twitter: "https://twitter.com/Mohamma93073097",
+      resume: "https://drive.google.com/drive/folders/1opmDYrK1dtV_069NTBQsyj8t2_Z6Esje",
+      email: "mailto:mohdmoin4011@gmail.com",
    }
 
    const renderIcon = (key) => {
       switch (key) {
+         case "email":
+            return <SiGmail color="#DB4437" />
          case "github":
             return <SiGithub color="black" />
          case "linkedin":
             return <SiLinkedin color="#0077B5" />
          case "twitter":
             return <SiTwitter color="#1DA1F2" />
+         case "resume":
+            return <SiDocusign color="#0077B5" />
          default:
             return null
       }
