@@ -1,12 +1,15 @@
 {
-   "name": "swe-portfolio",
+   "name": "moin-portfolio",
+   "homepage": "https://mpasha400.github.io/Moin-Portfolio",
    "version": "0.1.0",
    "author": {
       "name": "Mohammad Moin",
       "email": "mohdmoin4011@gmail.com"
    },
-   "private": true,
+   "private": false,
    "scripts": {
+      "predeploy": "npm run build",
+      "deploy": "gh-pages -d public",
       "dev": "next dev",
       "build": "next build",
       "start": "next start",
@@ -29,5 +32,8 @@
       "tailwindcss": "^3.3.1",
       "three": "^0.152.2",
       "vercel": "^28.20.0"
+   },
+   "devDependencies": {
+      "gh-pages": "^5.0.0"
    }
 }
