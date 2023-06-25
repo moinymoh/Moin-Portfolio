@@ -1,0 +1,33 @@
+{
+   "name": "swe-portfolio",
+   "version": "0.1.0",
+   "author": {
+      "name": "Mohammad Moin",
+      "email": "mohdmoin4011@gmail.com"
+   },
+   "private": true,
+   "scripts": {
+      "dev": "next dev",
+      "build": "next build",
+      "start": "next start",
+      "lint": "next lint"
+   },
+   "dependencies": {
+      "@react-three/drei": "^9.66.6",
+      "@reduxjs/toolkit": "^1.9.5",
+      "autoprefixer": "^10.4.14",
+      "eslint": "8.39.0",
+      "eslint-config-next": "13.3.1",
+      "next": "13.3.1",
+      "postcss": "^8.4.23",
+      "react": "18.2.0",
+      "react-dom": "18.2.0",
+      "react-icons": "^4.8.0",
+      "react-redux": "^8.0.5",
+      "react-three-fiber": "^6.0.13",
+      "redux": "^4.2.1",
+      "tailwindcss": "^3.3.1",
+      "three": "^0.152.2",
+      "vercel": "^28.20.0"
+   }
+}
