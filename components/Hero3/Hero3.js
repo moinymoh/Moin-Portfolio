@@ -80,7 +80,7 @@ const Hero3 = () => {
       const loader = new FontLoader()
 
       const createTypo = (font) => {
-         const name = "MOHAMMADMOIN"
+         const name = "MOHAMMAD MOIN"
          const title = "SOFTWARE ENGINEER | Full Stack Developer | TECH ENTHUSIAST"
          const typoProperties = {
             font: font,

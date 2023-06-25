@@ -176,7 +176,7 @@ const Matrix = () => {
       const textGroup = new THREE.Group()
 
       const createTypo = (font) => {
-         const name = "MOHAMMADMOIN"
+         const name = "MOHAMMAD MOIN"
          const title = "Software Engineer | Full Stack Developer | Tech Enthusiast"
          const typoProperties = {
             font: font,
