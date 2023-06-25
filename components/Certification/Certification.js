@@ -8,7 +8,21 @@ const Certification = () => {
          date: "May 2022",
          link: "https://www.credly.com/badges/9c223284-5102-4078-a193-67b5c11ce7db/print",
          badge: "/images/AmazonCloud.jpg",
-      }
+      },
+      {
+         title: "Certificate Of Excellence",
+         provider: "Coding Ninjas",
+         date: "May 2022",
+         link: "https://drive.google.com/file/d/1pyzBoCT_z4Wroxm7VmHaYWn2pCqBCdQl/view",
+         badge: "/images/CodingNinja.jpg",
+      },
+      {
+         title: "Artificial Intelligence Foundation - Gold",
+         provider: "Nasscom",
+         date: "May 2022",
+         link: "https://drive.google.com/file/d/16xAOKugSgYJ3VhFkYH0NvjqmA-P3Ss_p/view?usp=drive_link",
+         badge: "/images/ArtificialIntelligence.png",
+      },
    ]
 
    return (
