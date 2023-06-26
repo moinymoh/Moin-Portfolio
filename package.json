@@ -6,7 +6,7 @@
       "name": "Mohammad Moin",
       "email": "mohdmoin4011@gmail.com"
    },
-   "private": false,
+   "private": true,
    "scripts": {
       "predeploy": "npm run build",
       "deploy": "gh-pages -d public",
