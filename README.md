@@ -1,6 +1,6 @@
 # Moin's Portfolio
 
-This portfolio website is built using Next.js and tailwind css and currently deployed in the GCP App Engine.
+This portfolio website is built using Next.js and tailwind css and currently deployed in vercel environment.
 
 ## How to Run this in local - Getting Started
 
