@@ -6,7 +6,7 @@ export const Contact = () => {
    const userName = "moinymoh"
 
    const socialLinks = {
-      github: "https://github.com/mpasha400",
+      github: "https://github.com/moinymoh",
       linkedin: "https://www.linkedin.com/in/moiin/",
       twitter: "https://twitter.com/Mohamma93073097",
       resume: "https://drive.google.com/file/d/1yU4UjGus4k8abkmtWlyIlflTnakfKv2e/view?usp=sharing",
