@@ -7,10 +7,10 @@ export const Contact = () => {
 
    const socialLinks = {
       github: "https://github.com/moinymoh",
-      linkedin: "https://www.linkedin.com/in/moiin/",
+      linkedin: "https://www.linkedin.com/in/moinymoh/",
       twitter: "https://twitter.com/Mohamma93073097",
-      resume: "https://drive.google.com/file/d/1yU4UjGus4k8abkmtWlyIlflTnakfKv2e/view?usp=sharing",
-      email: "mailto:mohdmoin4011@gmail.com",
+      resume: "https://drive.google.com/file/d/1-B0DY5ig_kAm-5Vz1C0uUesJErdNQqkN/view?usp=sharing",
+      email: "mailto:moinymoh@gmail.com",
    }
 
    const renderIcon = (key) => {
