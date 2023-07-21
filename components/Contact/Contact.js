@@ -9,7 +9,7 @@ export const Contact = () => {
       github: "https://github.com/moinymoh",
       linkedin: "https://www.linkedin.com/in/moinymoh/",
       twitter: "https://twitter.com/Mohamma93073097",
-      resume: "https://drive.google.com/file/d/1-B0DY5ig_kAm-5Vz1C0uUesJErdNQqkN/view?usp=sharing",
+      resume: "https://drive.google.com/file/d/1ok1xD3RhcmGO_9PZ0upENjMjEF4CHkCb/view",
       email: "mailto:moinymoh@gmail.com",
    }
 
